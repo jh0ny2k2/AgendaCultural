@@ -25,23 +25,16 @@ Aplicación web desarrollada en Laravel para gestionar y difundir actividades cu
 - MySQL o MariaDB
 - Node.js (para compilar assets)
 
-## Uso 📖
-
-Estructura del proyecto 📂
+## Estructura del proyecto 📂
 
 app/Models - Modelos de Eloquent.
-
 app/Http/Controllers - Controladores de la aplicación.
-
 resources/views - Vistas de Blade.
-
 resources/css - Estilos personalizados con Tailwind CSS.
-
 routes/web.php - Rutas de la aplicación.
-
 public/ - Assets públicos (CSS, JS, imágenes).
 
-Contribuciones 🤝
+## Contribuciones 🤝
 Las contribuciones son bienvenidas. Si deseas mejorar esta aplicación, por favor crea un fork, realiza tus cambios y envía un pull request.
 
 ## Licencia 📄
